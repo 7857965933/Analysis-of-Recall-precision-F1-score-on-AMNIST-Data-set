@@ -1,1 +1,1 @@
-# Analysis-of-Recall-precision-F1-score-on-AMNIST-Data-set
+# Analysis-of-Recall-precision-F1-score-on-MNIST-Data-set
